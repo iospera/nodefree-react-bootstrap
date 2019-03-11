@@ -1,0 +1,31 @@
+body {
+}
+
+ol, ul {
+}
+
+.board-row:after {
+}
+
+.status {
+}
+
+.square {
+    border: 1px solid #999;
+    line-height: 34px;
+    height: 34px;
+    text-align: center;
+    width: 34px;
+}
+
+.square:focus {
+}
+
+.kbd-navigation .square:focus {
+}
+
+.game {
+}
+
+.game-info {
+}
